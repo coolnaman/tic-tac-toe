@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+}
+table{
+    margin-left: 42%;
+    margin-top: 13%;
+}
+button {
+    width: 80px;
+    height: 80px;
+    background-color:#BC5C4B;
+}
+h1{
+    text-align: center;
+    color: #6A2215;
+}
+h2{
+    text-align: center;
+
+}
